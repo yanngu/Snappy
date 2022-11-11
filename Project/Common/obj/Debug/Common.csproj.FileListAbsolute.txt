@@ -1,0 +1,8 @@
+D:\github\Snappy\Project\Common\bin\Debug\Common.dll
+D:\github\Snappy\Project\Common\bin\Debug\Common.pdb
+D:\github\Snappy\Project\Common\bin\Debug\UnityEditor_2021.3.12f1c2.dll
+D:\github\Snappy\Project\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+D:\github\Snappy\Project\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\github\Snappy\Project\Common\obj\Debug\Common.csproj.CopyComplete
+D:\github\Snappy\Project\Common\obj\Debug\Common.dll
+D:\github\Snappy\Project\Common\obj\Debug\Common.pdb
