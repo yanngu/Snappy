@@ -53,6 +53,15 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
+*.csproj
+Unity/Library/
+Unity/Logs
+Unity/.vsconfig
+Unity/Temp/
+*.sln
+
 # Crashlytics generated file
 crashlytics-build.properties
 
+/Unity/UserSettings/EditorUserSettings.asset
+/Unity/UserSettings/Layouts/default-2021.dwlt
