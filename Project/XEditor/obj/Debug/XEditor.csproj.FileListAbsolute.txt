@@ -1,9 +1,0 @@
-D:\github\Snappy\Project\XEditor\bin\Debug\XEditor.dll
-D:\github\Snappy\Project\XEditor\bin\Debug\XEditor.pdb
-D:\github\Snappy\Project\XEditor\bin\Debug\Common.dll
-D:\github\Snappy\Project\XEditor\bin\Debug\Common.pdb
-D:\github\Snappy\Project\XEditor\obj\Debug\XEditor.csproj.AssemblyReference.cache
-D:\github\Snappy\Project\XEditor\obj\Debug\XEditor.csproj.CoreCompileInputs.cache
-D:\github\Snappy\Project\XEditor\obj\Debug\XEditor.csproj.CopyComplete
-D:\github\Snappy\Project\XEditor\obj\Debug\XEditor.dll
-D:\github\Snappy\Project\XEditor\obj\Debug\XEditor.pdb
